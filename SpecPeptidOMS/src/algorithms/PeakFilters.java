@@ -10,6 +10,7 @@ import java.util.Arrays;
 
 
 /**
+ * 
  * This class contains the different filtering functions to be applied to the peaks of a spectrum.
  * For now, only one method is implemented
  * @author 	BENOIST Emile, TESSIER Dominique
