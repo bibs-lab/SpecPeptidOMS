@@ -34,6 +34,7 @@ import loaders.Spectra;
 public final class SpecGlobThread implements Runnable
 {	
 	
+	
 	private static int NB_LOCATIONS_SAVED = Parameters.NB_LOCATIONS_SAVED();
 	private static int NB_INTERPRETATIONS_SAVED = Parameters.NB_INTERPRETATIONS_SAVED();
 	
